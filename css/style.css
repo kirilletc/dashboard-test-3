@@ -146,6 +146,7 @@ body {
 .tab-active {
     color: #000;
     border: 1px solid lightgray;
+    border: 1px solid #FFF;
 }
 
 .dashboard-container {
@@ -191,6 +192,7 @@ body {
     width: 213px;
     height: 56px;
     margin-bottom: 24px;
+    display: none;
 
 }
 
