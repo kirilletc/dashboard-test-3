@@ -205,6 +205,7 @@ body {
     height: 56px;
 /*    border: 1px solid gray;*/
     padding: 5px 10px;
+    display: none;
 }
 
 .icon1 {
